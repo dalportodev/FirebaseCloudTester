@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "116213104639",
+    "firebase_url": "https://fir-cloud-tester.firebaseio.com",
+    "project_id": "fir-cloud-tester",
+    "storage_bucket": "fir-cloud-tester.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116213104639:android:3fdd721d96e1fc9d",
+        "android_client_info": {
+          "package_name": "com.chomptech.firebasecloudtester"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116213104639-148shacv6b5b2trcp0f18p55db5lubqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
