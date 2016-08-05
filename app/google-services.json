@@ -15,11 +15,14 @@
       },
       "oauth_client": [
         {
-          "client_id": "116213104639-148shacv6b5b2trcp0f18p55db5lubqb.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
-      "api_key": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwPUsUWgIOklyfbmHrSVLu4xdCntpmF9Y"
+        }
+      ],
       "services": {
         "analytics_service": {
           "status": 1
